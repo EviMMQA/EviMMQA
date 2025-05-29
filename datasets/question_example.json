@@ -1,0 +1,66 @@
+[
+    {
+        "ID": "00727-Methods-002",
+        "context": "pmc.ncbi_PMC4808504",
+        "task_type": "Methods",
+        "input": "Question: In what month and year did the SNaX study begin? \n\nOptions: \nA. January 2008\nB. January 2009\nC. January 2010\nD. January 2011 \n\nAnswer:",
+        "answer": "B"
+    },
+    {
+        "ID": "00727-Methods-003",
+        "context": "pmc.ncbi_PMC4808504",
+        "task_type": "Methods",
+        "input": "Question: How many matched-pairs received SNaX in the spring semester of 2010? \n\nOptions: \nA. 1\nB. 2\nC. 3\nD. 4 \n\nAnswer:",
+        "answer": "B"
+    },
+    {
+        "ID": "00727-Methods-006",
+        "context": "pmc.ncbi_PMC4808504",
+        "task_type": "Methods",
+        "input": "Question: What was the unit of allocation in the SNaX study? \n\nOptions: \nA. Individual\nB. Classroom\nC. School\nD. District \n\nAnswer:",
+        "answer": "C"
+    },
+    {
+        "ID": "00727-Methods-007",
+        "context": "pmc.ncbi_PMC4808504",
+        "task_type": "Methods",
+        "input": "Question: What was the length of the intervention period in the SNaX study? \n\nOptions: \nA. 2 weeks\nB. 4 weeks\nC. 5 weeks\nD. 6 weeks \n\nAnswer:",
+        "answer": "C"
+    },
+    {
+        "ID": "00727-Participants-001",
+        "context": "pmc.ncbi_PMC4808504",
+        "task_type": "Participants",
+        "input": "Question: How many participants were randomized in the RCT study? \n\nOptions: \nA. 4022\nB. 3678\nC. 31\nD. 900 \n\nAnswer:",
+        "answer": "A"
+    },
+    {
+        "ID": "00727-Participants-005",
+        "context": "pmc.ncbi_PMC4808504",
+        "task_type": "Participants",
+        "input": "Question: What was the percentage of children enrolled out of the total participants randomized? \n\nOptions: \nA. 32%\nB. 50%\nC. 91%\nD. 68% \n\nAnswer:",
+        "answer": "C"
+    },
+    {
+        "ID": "00727-Participants-006",
+        "context": "pmc.ncbi_PMC4808504",
+        "task_type": "Participants",
+        "input": "Question: What was the mean age of participants in the study? \n\nOptions: \nA. 11.0 years\nB. 12.5 years\nC. 12.2 years\nD. 13.0 years \n\nAnswer:",
+        "answer": "C"
+    },
+    {
+        "ID": "00727-Participants-007",
+        "context": "pmc.ncbi_PMC4808504",
+        "task_type": "Participants",
+        "input": "Question: What percentage of participants in the study were boys? \n\nOptions: \nA. 45.0%\nB. 49.1%\nC. 50.0%\nD. 51.5% \n\nAnswer:",
+        "answer": "B"
+    },
+    {
+        "ID": "00727-Interventions-007",
+        "context": "pmc.ncbi_PMC4808504",
+        "task_type": "Interventions",
+        "input": "Question: What type of intervention was primarily used in this RCT study? \n\nOptions: \nA. Medication intervention\nB. Dietary and activity intervention\nC. Psychological intervention\nD. Surgical intervention \n\nAnswer:",
+        "answer": "B"
+    }
+]
+
