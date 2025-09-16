@@ -8,17 +8,11 @@ This repository includes:
 - A novel framework for evidence extraction QA
 - Training and evaluation scripts for multimodal QA models based on LLaVA-NeXT
 
+---
 
-## 📂 Dataset
+## ⚙️ Environment Setup
 
-- `question.json`: A collection of multiple-choice QA pairs generated from Cochrane systematic reviews.
-- `articles/`: Directory containing full-text medical documents
-
-## ⚙️ Usage
-
-### 1. Install environment
-
-We recommend using Anaconda:
+We recommend using **Anaconda**:
 
 ```bash
 conda create -n evimmqa python=3.10
@@ -26,29 +20,63 @@ conda activate evimmqa
 pip install -r requirements.txt
 ```
 
-## 🚀 2. Train the model
+Download the pretrained model:
 
-```bash
-bash scripts/train/train.sh
+```
+lmms-lab/llava-next-interleave-qwen-7b-dpo
 ```
 
 ---
+## 📂 Dataset
 
-## 📊 3. Evaluate the model
+1. Download the dataset from [Hugging Face Hub](https://huggingface.co/changkai/EviMMQA):
+   ```
+   changkai/EviMMQA
+   ```
 
-```bash
-bash scripts/eval/eval.sh
-```
+2. Unzip the files:
+   ```bash
+   unzip articles1.zip
+   unzip articles2.zip
+   ```
+
+3. Enter the dataset processing directory:
+   ```bash
+   cd dataset_processing
+   ```
+
+4. For both `train.json` and `test.json`, run the following steps:
+   ```bash
+   python paddle_ocr.py
+   python prepare_rag.py
+   python gpt_format_transform.py
+   ```
 
 ---
 
-## 📌 4. To Do List
+## 🚀 Training
 
-- [ ] 📦 Release dataset
-- [ ] 🧪 Release evaluation scripts
-- [ ] 💾 Upload pretrained checkpoints (0.5B / 7B variants)
-- [ ] 🏗️ Publish training scripts
-- [ ] 📖 Extend to open-ended QA (future)
+Two training scripts are supported:
+
+- **Standard fine-tuning**
+  ```bash
+  bash ft.sh
+  ```
+
+- **MoE fine-tuning**
+  ```bash
+  bash ft_moe.sh
+  ```
+
+---
+
+## 📊 Evaluation
+
+Run evaluation with:
+
+```bash
+python eval_pico.py
+```
 
 ---
 
