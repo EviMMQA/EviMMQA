@@ -1,0 +1,3337 @@
+[
+    {
+        "ID": "11225",
+        "Study_ID": "2964_014",
+        "Url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2938293/",
+        "Name": "pmc.ncbi_PMC2938293",
+        "Study characteristics": {
+            "Methods": [
+                "Randomised controlled trial"
+            ],
+            "Participants": [
+                "<b>Country</b>: Finland",
+                "<b>Setting</b>: ambulatory",
+                "<b>Age</b>: adults (18–49 years old)",
+                "<b>Sample size</b>: 29",
+                "<b>Sex</b>: 15 women, 14 men",
+                "<b>Inclusion criteria</b>: ADHD diagnosis made by a physician; no diagnosis of psychosis, severe depression or paranoia; deficits of attention, executive functions or working memory identified in an earlier neuropsychological evaluation; no current alcohol dependency or drug use; not receiving a disability pension; no participation in our previous group rehabilitation study; currently not undergoing any other psychological rehabilitation; no medication or medication that has been stable for at least three months",
+                "<b>Exclusion criteria</b>: no neuropsychological examination; diagnosis of psychosis, severe depression or paranoia; older age, retired, or current psychological rehabilitation."
+            ],
+            "Interventions": [
+                "<b>Intervention</b>:",
+                "Short‐term individual cognitive‐behavioral therapy (CBT) (10 weekly sessions) (n = 10; 5 participants with specific pharmacotherapy for ADHD and 5 without specific pharmacotherapy).",
+                "Cognitive training (CT) (20 sessions taking place twice a week) (n = 9; 5 participants with specific pharmacotherapy for ADHD and 4 without specific pharmacotherapy)",
+                "<b>Control</b>: control group (not specified) (n = 10; 7 participants with specific pharmacotherapy for ADHD and 3 without specific pharmacotherapy).",
+                "Dosage, timing of dosage and administration of pharmacotherapy were not specified."
+            ],
+            "Outcomes": [
+                "Brown Attention Deficit Disorder Scale – Adult Version (BADDS)",
+                "Clinical Global Impression Scale‐NIMH (CGI)",
+                "Beck Depression Inventory, second edition (BDI‐II)",
+                "Quality of Life Enjoyment and Satisfaction Questionnaire (QLESQ)"
+            ]
+        },
+        "Questions": {
+            "Methods": [
+                {
+                    "Question_id": "001",
+                    "Question": "What type of study design is described in the key characteristics?",
+                    "Options": [
+                        "A. Cohort study",
+                        "B. Case-control study",
+                        "C. Randomised controlled trial",
+                        "D. Cross-sectional study"
+                    ],
+                    "Answer": "C"
+                }
+            ],
+            "Participants": [
+                {
+                    "Question_id": "001",
+                    "Question": "In which country was the RCT study conducted?",
+                    "Options": [
+                        "A. Sweden",
+                        "B. Finland",
+                        "C. Norway",
+                        "D. Denmark"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "What was the setting of the RCT study?",
+                    "Options": [
+                        "A. Hospital",
+                        "B. Ambulatory",
+                        "C. Inpatient",
+                        "D. Community"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What was the age range of participants in the study?",
+                    "Options": [
+                        "A. 18–35 years old",
+                        "B. 20–50 years old",
+                        "C. 18–49 years old",
+                        "D. 21–45 years old"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "What was the total sample size of the study?",
+                    "Options": [
+                        "A. 25",
+                        "B. 29",
+                        "C. 30",
+                        "D. 35"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "How many women participated in the study?",
+                    "Options": [
+                        "A. 10",
+                        "B. 12",
+                        "C. 15",
+                        "D. 14"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "Which of the following was an inclusion criterion for the study?",
+                    "Options": [
+                        "A. Diagnosis of severe depression",
+                        "B. Current alcohol dependency",
+                        "C. ADHD diagnosis made by a physician",
+                        "D. Receiving a disability pension"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "007",
+                    "Question": "Which of the following was an exclusion criterion for the study?",
+                    "Options": [
+                        "A. No diagnosis of psychosis",
+                        "B. Older age",
+                        "C. Stable medication for at least three months",
+                        "D. No participation in previous group rehabilitation study"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "008",
+                    "Question": "What was the gender distribution of men in the study?",
+                    "Options": [
+                        "A. 13 men",
+                        "B. 14 men",
+                        "C. 16 men",
+                        "D. 15 men"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "009",
+                    "Question": "Which condition was NOT a part of the exclusion criteria?",
+                    "Options": [
+                        "A. Current psychological rehabilitation",
+                        "B. Neuropsychological examination",
+                        "C. Diagnosis of paranoia",
+                        "D. Receiving a disability pension"
+                    ],
+                    "Answer": "D"
+                },
+                {
+                    "Question_id": "010",
+                    "Question": "What was a required condition regarding medication for participants?",
+                    "Options": [
+                        "A. No medication allowed",
+                        "B. Medication stable for at least six months",
+                        "C. Medication stable for at least three months",
+                        "D. Medication changes allowed during the study"
+                    ],
+                    "Answer": "C"
+                }
+            ],
+            "Interventions": [
+                {
+                    "Question_id": "001",
+                    "Question": "How many participants in the CBT intervention group received specific pharmacotherapy for ADHD?",
+                    "Options": [
+                        "A. 3",
+                        "B. 5",
+                        "C. 7",
+                        "D. 9"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "How many total sessions are included in the cognitive training (CT) intervention?",
+                    "Options": [
+                        "A. 10",
+                        "B. 15",
+                        "C. 20",
+                        "D. 25"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What is the total number of participants in the control group?",
+                    "Options": [
+                        "A. 8",
+                        "B. 9",
+                        "C. 10",
+                        "D. 11"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "How many participants in the CT group did not receive specific pharmacotherapy for ADHD?",
+                    "Options": [
+                        "A. 2",
+                        "B. 3",
+                        "C. 4",
+                        "D. 5"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "How many weekly sessions are included in the CBT intervention?",
+                    "Options": [
+                        "A. 5",
+                        "B. 10",
+                        "C. 15",
+                        "D. 20"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "How many participants in the control group received specific pharmacotherapy for ADHD?",
+                    "Options": [
+                        "A. 3",
+                        "B. 5",
+                        "C. 7",
+                        "D. 9"
+                    ],
+                    "Answer": "C"
+                }
+            ],
+            "Outcomes": [
+                {
+                    "Question_id": "001",
+                    "Question": "Which scale used in the RCT study is specifically designed to assess attention deficit disorder in adults?",
+                    "Options": [
+                        "A. Clinical Global Impression Scale‐NIMH (CGI)",
+                        "B. Beck Depression Inventory second edition (BDI‐II)",
+                        "C. Brown Attention Deficit Disorder Scale – Adult Version (BADDS)",
+                        "D. Quality of Life Enjoyment and Satisfaction Questionnaire (QLESQ)"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "What does the Clinical Global Impression Scale‐NIMH (CGI) measure in the study?",
+                    "Options": [
+                        "A. Attention deficit disorder",
+                        "B. Depression severity",
+                        "C. Global clinical impression",
+                        "D. Quality of life enjoyment"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "Which inventory used in the study is focused on evaluating depression symptoms?",
+                    "Options": [
+                        "A. Brown Attention Deficit Disorder Scale – Adult Version (BADDS)",
+                        "B. Clinical Global Impression Scale‐NIMH (CGI)",
+                        "C. Beck Depression Inventory second edition (BDI‐II)",
+                        "D. Quality of Life Enjoyment and Satisfaction Questionnaire (QLESQ)"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "The Quality of Life Enjoyment and Satisfaction Questionnaire (QLESQ) is intended to assess what aspect of the participants' lives?",
+                    "Options": [
+                        "A. Attention deficit disorder",
+                        "B. Global clinical impression",
+                        "C. Depression severity",
+                        "D. Quality of life enjoyment and satisfaction"
+                    ],
+                    "Answer": "D"
+                }
+            ]
+        },
+        "assessment": {
+            "question_scores": [
+                {
+                    "question": "What type of study design is described in the key characteristics?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "In which country was the RCT study conducted?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the setting of the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the age range of participants in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the total sample size of the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many women participated in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which of the following was an inclusion criterion for the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which of the following was an exclusion criterion for the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the gender distribution of men in the study?",
+                    "accuracy": 1,
+                    "fluency": 8
+                },
+                {
+                    "question": "Which condition was NOT a part of the exclusion criteria?",
+                    "accuracy": 0,
+                    "fluency": 9
+                },
+                {
+                    "question": "What was a required condition regarding medication for participants?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "How many participants in the CBT intervention group received specific pharmacotherapy for ADHD?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many total sessions are included in the cognitive training (CT) intervention?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the total number of participants in the control group?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many participants in the CT group did not receive specific pharmacotherapy for ADHD?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many weekly sessions are included in the CBT intervention?",
+                    "accuracy": 1,
+                    "fluency": 8
+                },
+                {
+                    "question": "How many participants in the control group received specific pharmacotherapy for ADHD?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which scale used in the RCT study is specifically designed to assess attention deficit disorder in adults?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What does the Clinical Global Impression Scale‐NIMH (CGI) measure in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which inventory used in the study is focused on evaluating depression symptoms?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "The Quality of Life Enjoyment and Satisfaction Questionnaire (QLESQ) is intended to assess what aspect of the participants' lives?",
+                    "accuracy": 1,
+                    "fluency": 10
+                }
+            ],
+            "coverage": {
+                "score": 8,
+                "comment": "Well covers design, demographics, group sizes, and all outcomes. Underrepresented: specific inclusion/exclusion details (neuropsych evaluation deficits, no alcohol/drug use, prior group rehab, disability pension), CT frequency (twice weekly), and the note that control condition and pharmacotherapy dosing/timing were unspecified."
+            },
+            "diversity": {
+                "score": 6,
+                "comment": "Most items are factual recall with similar phrasing (many 'What/Which/How many' questions). To improve, add scenario-based or comparative questions (e.g., calculate proportions across groups, interpret implications of unspecified control/pharmacotherapy dosing, or apply inclusion/exclusion to sample cases)."
+            }
+        },
+        "questions_length": 21
+    },
+    {
+        "ID": "11326",
+        "Study_ID": "3021_030",
+        "Url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4577714/",
+        "Name": "pmc.ncbi_PMC4577714",
+        "Study characteristics": {
+            "Methods": [
+                "Randomised controlled trial"
+            ],
+            "Data": [
+                "Setting: secondary and university‐based cancer centre, community‐based oncology centres, USA. Participants were 462 people 18 or over diagnosed with cancer who were scheduled for a visit with an oncologist and who had not been in a trial before. Could speak and read English"
+            ],
+            "Comparisons": [
+                "Investigated of multimedia provision of trial information.",
+                "Intervention: multimedia (DVD) psychoeducation giving general info and addressing misperceptions and concerns about trials",
+                "Comparator: written information about trials"
+            ],
+            "Outcomes": [
+                "Willingness to participate in a hypothetical trial"
+            ]
+        },
+        "Questions": {
+            "Methods": [
+                {
+                    "Question_id": "001",
+                    "Question": "What type of study design is described in the key characteristics?",
+                    "Options": [
+                        "A. Cohort study",
+                        "B. Case-control study",
+                        "C. Randomised controlled trial",
+                        "D. Cross-sectional study"
+                    ],
+                    "Answer": "C"
+                }
+            ],
+            "Data": [
+                {
+                    "Question_id": "001",
+                    "Question": "Where was the setting of the study conducted?",
+                    "Options": [
+                        "A. Primary care centers",
+                        "B. Secondary and university-based cancer centers",
+                        "C. International hospitals",
+                        "D. Private clinics"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "How many participants were involved in the study?",
+                    "Options": [
+                        "A. 250",
+                        "B. 462",
+                        "C. 750",
+                        "D. 1000"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What was the minimum age requirement for participants in the study?",
+                    "Options": [
+                        "A. 16 years",
+                        "B. 18 years",
+                        "C. 21 years",
+                        "D. 25 years"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "What language proficiency was required for participants in the study?",
+                    "Options": [
+                        "A. Spanish",
+                        "B. French",
+                        "C. English",
+                        "D. German"
+                    ],
+                    "Answer": "C"
+                }
+            ],
+            "Outcomes": [
+                {
+                    "Question_id": "001",
+                    "Question": "What was the primary outcome measured in the study?",
+                    "Options": [
+                        "A. Quality of life",
+                        "B. Survival rates",
+                        "C. Willingness to participate in a hypothetical trial",
+                        "D. Treatment efficacy"
+                    ],
+                    "Answer": "C"
+                }
+            ],
+            "Comparisons": [
+                {
+                    "Question_id": "001",
+                    "Question": "What type of intervention was used in the study to provide trial information?",
+                    "Options": [
+                        "A. Written brochure",
+                        "B. Multimedia (DVD) psychoeducation",
+                        "C. Online webinar",
+                        "D. Face-to-face counseling"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "What was the comparator used in the study against the multimedia intervention?",
+                    "Options": [
+                        "A. No information",
+                        "B. Verbal explanation",
+                        "C. Written information",
+                        "D. Online articles"
+                    ],
+                    "Answer": "C"
+                }
+            ]
+        },
+        "assessment": {
+            "question_scores": [
+                {
+                    "question": "What type of study design is described in the key characteristics?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Where was the setting of the study conducted?",
+                    "accuracy": 1,
+                    "fluency": 8
+                },
+                {
+                    "question": "How many participants were involved in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the minimum age requirement for participants in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What language proficiency was required for participants in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the primary outcome measured in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What type of intervention was used in the study to provide trial information?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the comparator used in the study against the multimedia intervention?",
+                    "accuracy": 1,
+                    "fluency": 10
+                }
+            ],
+            "coverage": {
+                "score": 7,
+                "comment": "Covers design, sample size, age, language, outcome, intervention, and comparator. Missing or underrepresented: full setting details (community-based oncology centres and USA), participant criteria (diagnosed with cancer, scheduled oncologist visit, no prior trial participation), and the intervention’s content focus (addressing misperceptions/concerns)."
+            },
+            "diversity": {
+                "score": 6,
+                "comment": "Questions are mostly factual multiple-choice with similar phrasing. Increase variety by including questions on specific inclusion criteria, setting nuances (US, community-based), intervention content, and by using different formats (true/false, scenario-based, comparison/interpretation)."
+            }
+        },
+        "questions_length": 8
+    },
+    {
+        "ID": "03724",
+        "Study_ID": "0656_005",
+        "Url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2887856/",
+        "Name": "pmc.ncbi_PMC2887856",
+        "Study characteristics": {
+            "Methods": [
+                "Study design: cluster‐RCT",
+                "Study recruitment: January 2005–October 2007; follow‐up 30 (SD 3) months",
+                "Published protocol/trial: protocol published and trial registered; ISRCTN41467632"
+            ],
+            "Participants": [
+                "Description: women at 12–34 weeks of pregnancy and mothers of newborn, predentate infants from 9 communities (intervention n = 131 in 5 communities, control n = 141 in 4 communities)",
+                "Exclusion criteria: any woman knowing of an impending, permanent move out of her community.",
+                "Indigenous population: Quebec Cree Nation Eeyou Istchee",
+                "Setting: Canada, remote",
+                "Place of delivery: health clinic",
+                "Principle health condition: early childhood caries",
+                "Age of mother (years), mean: intervention 25.5 (SD 6.4), control 25.6 (SD 5.8)",
+                "Gender of infant: none reported",
+                "Number of children in family: has other children: intervention 83 (64.3%), control 92 (65.7%)",
+                "Family unit: none reported",
+                "Socioeconomic status: none reported",
+                "Employment of primary carer: none reported",
+                "Education of primary carer: none reported"
+            ],
+            "Interventions": [
+                "<b>Intervention</b>",
+                "Intervention name: MI",
+                "Intervention aim: to control caries in Indigenous children",
+                "Theory used to develop intervention: follows the principles of MI, a client‐centred but directive counselling style.",
+                "Consumer and community involvement: 2 years of community consultation was completed. This was mainly around study design and the use of RCT. The decision to use an RCT was decided based on no health promotion programme for oral health previously being completed. Community Health Representatives who delivered the intervention modified the intervention protocol and resources (menus) to fit better with the \"way of being\" of the Cree. The menus were customised for various stages of infant and toddler development and were printed on flip charts that included images of local children and families.",
+                "Overall grouping: counselling",
+                "Fees, reimbursement, or incentives: none reported",
+                "Procedures: at the counselling sessions, mothers were given the resources to enable them to adopt their selected behaviours, e.g. infant toothbrushes and fluoride toothpaste, and xylitol gum for the mother. Menus were developed at specific age ranges to reflect changes over time in each child's feeding and snacking habits, and dental development. FV was provided as a choice of care after the child's first birthday. Mothers also received a 'Privilege Card' to expedite dental care.",
+                "Materials: mothers received resources at each MI visit to enable them to implement selected behaviours, e.g. infant toothbrushes, toothpaste, and sippy cups. Mothers also received a pamphlet explaining children's dental care practices.",
+                "Mode of delivery: well‐child visit provided individually to each family face‐to‐face with home visits as an option.",
+                "When and how often was the intervention delivered? mothers were counselled once during pregnancy and up to 6 times postnatally to correspond with the 2‐, 4‐, 6‐, 12‐, 18‐, and 24‐month well‐child visits at local clinics.",
+                "Who delivered the intervention? Community Health Representatives: existing health workers and, where not available, local women were employed.",
+                "Was there any training provided to the people who delivered the intervention? a 2‐day training workshop for Community Health Representatives was held in the first year of the project in a community adjacent to Eeyou Istchee that was accessible by air or ground transport. An MI consultant delivered the training. The consultant presented theory and principles of MI. Explanatory notes were developed for the Community Health Representatives to guide their counselling sessions. The MI consultant followed up months later with an MI coaching conference call to problem‐solve MI with and support the Community Health Representatives. A second 2‐day workshop for all intervention Community Health Representatives was held in year 2 in an intervention community. Following this workshop, the Project Manager regularly visited each of the communities individually to problem‐solve issues with recruiting and delivery of the counselling interventions. The Programme Manager also maintained regular telephone contact with the project's staff in each community.",
+                "Was the study modified or adapted? recruitment and delivery of the intervention changed between sites. In 2/5 intervention communities and 2/4 control communities, recruitment and, for the intervention communities, delivery of the intervention was eventually completed by the Project Manager. Local women who were not Community Health Representatives completed recruitment in the remaining 2 control communities.",
+                "Was the fidelity assessed? no",
+                "<b>Comparison</b>",
+                "Pamphlet group",
+                "This was an education programme. The mothers received a culturally appropriate educational pamphlet describing healthy dental care practices for young children. Pamphlets were mailed to mothers when their child was aged 6 and 18 months. FV was available to control children at local dental clinics.",
+                "Fees, reimbursement, or incentives: none reported"
+            ],
+            "Outcomes": [
+                "Overall health and well‐being: tooth level caries",
+                "Child psychological health and emotional behaviour: parent answered 'yes' to &gt; 1 quality of life question",
+                "Child physical health and development: tooth level caries",
+                "Service access and utilisation: number of visits to the dentist for tooth pain",
+                "Adverse events: whether there were adverse events",
+                "Economic costs: cost‐effectiveness",
+                "Time points: 30 (SD 3) months of age"
+            ]
+        },
+        "Questions": {
+            "Methods": [
+                {
+                    "Question_id": "001",
+                    "Question": "What type of study design was used in the RCT study?",
+                    "Options": [
+                        "A. Case-control study",
+                        "B. Cohort study",
+                        "C. Cluster-RCT",
+                        "D. Cross-sectional study"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "During which period was the study recruitment conducted?",
+                    "Options": [
+                        "A. January 2006–October 2008",
+                        "B. January 2005–October 2007",
+                        "C. January 2004–October 2006",
+                        "D. January 2007–October 2009"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What was the follow-up duration for the study?",
+                    "Options": [
+                        "A. 24 (SD 2) months",
+                        "B. 36 (SD 4) months",
+                        "C. 30 (SD 3) months",
+                        "D. 18 (SD 1) months"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "Was the protocol for the trial published and registered?",
+                    "Options": [
+                        "A. No",
+                        "B. Yes",
+                        "C. Only published",
+                        "D. Only registered"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "What is the registration number of the trial?",
+                    "Options": [
+                        "A. ISRCTN12345678",
+                        "B. ISRCTN87654321",
+                        "C. ISRCTN41467632",
+                        "D. ISRCTN98765432"
+                    ],
+                    "Answer": "C"
+                }
+            ],
+            "Participants": [
+                {
+                    "Question_id": "001",
+                    "Question": "What was the age range of women participants in the study?",
+                    "Options": [
+                        "A. 18–40 weeks of pregnancy",
+                        "B. 12–34 weeks of pregnancy",
+                        "C. 10–30 weeks of pregnancy",
+                        "D. 15–35 weeks of pregnancy"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "How many communities were part of the intervention group?",
+                    "Options": [
+                        "A. 4",
+                        "B. 5",
+                        "C. 6",
+                        "D. 7"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What was the mean age of mothers in the control group?",
+                    "Options": [
+                        "A. 25.5 years",
+                        "B. 24.5 years",
+                        "C. 25.6 years",
+                        "D. 26.4 years"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "What percentage of women in the intervention group had other children?",
+                    "Options": [
+                        "A. 60.3%",
+                        "B. 62.5%",
+                        "C. 64.3%",
+                        "D. 66.7%"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "What is the primary health condition addressed in the study?",
+                    "Options": [
+                        "A. Early childhood obesity",
+                        "B. Early childhood caries",
+                        "C. Maternal diabetes",
+                        "D. Infant malnutrition"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "In which country was the study set?",
+                    "Options": [
+                        "A. United States",
+                        "B. Canada",
+                        "C. Australia",
+                        "D. United Kingdom"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "007",
+                    "Question": "What is the name of the Indigenous population involved in the study?",
+                    "Options": [
+                        "A. Mohawk Nation",
+                        "B. Inuit Nation",
+                        "C. Quebec Cree Nation Eeyou Istchee",
+                        "D. Métis Nation"
+                    ],
+                    "Answer": "C"
+                }
+            ],
+            "Interventions": [
+                {
+                    "Question_id": "001",
+                    "Question": "What is the aim of the MI intervention in the RCT study?",
+                    "Options": [
+                        "A. To reduce obesity in Indigenous children",
+                        "B. To control caries in Indigenous children",
+                        "C. To improve literacy in Indigenous children",
+                        "D. To enhance physical activity in Indigenous children"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "How long was the community consultation period before the study?",
+                    "Options": [
+                        "A. 6 months",
+                        "B. 1 year",
+                        "C. 2 years",
+                        "D. 3 years"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "How many times postnatally were mothers counselled as part of the intervention?",
+                    "Options": [
+                        "A. 4 times",
+                        "B. 5 times",
+                        "C. 6 times",
+                        "D. 7 times"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "What materials did mothers receive during the MI visits to implement selected behaviours?",
+                    "Options": [
+                        "A. Infant toothbrushes toothpaste and sippy cups",
+                        "B. Infant toothbrushes toys and storybooks",
+                        "C. Toothpaste dental floss and storybooks",
+                        "D. Sippy cups toys and storybooks"
+                    ],
+                    "Answer": "A"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "Who delivered the intervention to the families?",
+                    "Options": [
+                        "A. Doctors",
+                        "B. Community Health Representatives",
+                        "C. Teachers",
+                        "D. Dentists"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "How was the intervention delivered to each family?",
+                    "Options": [
+                        "A. Through group workshops",
+                        "B. Via online sessions",
+                        "C. Individually face-to-face with home visits as an option",
+                        "D. By mailing educational materials"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "007",
+                    "Question": "How long was the training workshop for Community Health Representatives in the first year?",
+                    "Options": [
+                        "A. 1 day",
+                        "B. 2 days",
+                        "C. 3 days",
+                        "D. 4 days"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "008",
+                    "Question": "What was included in the pamphlet group for the comparison intervention?",
+                    "Options": [
+                        "A. A pamphlet describing exercise routines",
+                        "B. A pamphlet describing healthy dental care practices",
+                        "C. A pamphlet describing dietary guidelines",
+                        "D. A pamphlet describing sleep hygiene practices"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "009",
+                    "Question": "At what ages were pamphlets mailed to mothers in the comparison group?",
+                    "Options": [
+                        "A. 2 and 4 months",
+                        "B. 6 and 18 months",
+                        "C. 12 and 24 months",
+                        "D. 4 and 8 months"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "010",
+                    "Question": "Was any fee or reimbursement reported for either the intervention or comparison group?",
+                    "Options": [
+                        "A. Yes for both groups",
+                        "B. Yes only for the intervention group",
+                        "C. Yes only for the comparison group",
+                        "D. No none reported for either group"
+                    ],
+                    "Answer": "D"
+                }
+            ],
+            "Outcomes": [
+                {
+                    "Question_id": "001",
+                    "Question": "What measure is used to assess overall health and well-being in the RCT study?",
+                    "Options": [
+                        "A. Child psychological health",
+                        "B. Tooth level caries",
+                        "C. Number of visits to the dentist",
+                        "D. Cost-effectiveness"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "How is child psychological health and emotional behavior assessed in the study?",
+                    "Options": [
+                        "A. Number of visits to the dentist",
+                        "B. Tooth level caries",
+                        "C. Parent answered 'yes' to > 1 quality of life question",
+                        "D. Cost-effectiveness"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What is used to evaluate service access and utilization in the study?",
+                    "Options": [
+                        "A. Cost-effectiveness",
+                        "B. Number of visits to the dentist for tooth pain",
+                        "C. Parent answered 'yes' to > 1 quality of life question",
+                        "D. Tooth level caries"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "At what age are the time points measured in the study?",
+                    "Options": [
+                        "A. 20 (SD 2) months",
+                        "B. 30 (SD 3) months",
+                        "C. 40 (SD 4) months",
+                        "D. 50 (SD 5) months"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "Which characteristic is used to assess economic costs in the study?",
+                    "Options": [
+                        "A. Adverse events",
+                        "B. Number of visits to the dentist",
+                        "C. Cost-effectiveness",
+                        "D. Tooth level caries"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "What is measured to determine child physical health and development in the study?",
+                    "Options": [
+                        "A. Parent answered 'yes' to > 1 quality of life question",
+                        "B. Number of visits to the dentist",
+                        "C. Tooth level caries",
+                        "D. Adverse events"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "007",
+                    "Question": "What is assessed to identify adverse events in the study?",
+                    "Options": [
+                        "A. Whether there were adverse events",
+                        "B. Number of visits to the dentist",
+                        "C. Cost-effectiveness",
+                        "D. Parent answered 'yes' to > 1 quality of life question"
+                    ],
+                    "Answer": "A"
+                }
+            ]
+        },
+        "assessment": {
+            "question_scores": [
+                {
+                    "question": "What type of study design was used in the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "During which period was the study recruitment conducted?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the follow-up duration for the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Was the protocol for the trial published and registered?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the registration number of the trial?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the age range of women participants in the study?",
+                    "accuracy": 1,
+                    "fluency": 8
+                },
+                {
+                    "question": "How many communities were part of the intervention group?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the mean age of mothers in the control group?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What percentage of women in the intervention group had other children?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the primary health condition addressed in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "In which country was the study set?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the name of the Indigenous population involved in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the aim of the MI intervention in the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How long was the community consultation period before the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many times postnatally were mothers counselled as part of the intervention?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What materials did mothers receive during the MI visits to implement selected behaviours?",
+                    "accuracy": 1,
+                    "fluency": 8
+                },
+                {
+                    "question": "Who delivered the intervention to the families?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How was the intervention delivered to each family?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How long was the training workshop for Community Health Representatives in the first year?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was included in the pamphlet group for the comparison intervention?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "At what ages were pamphlets mailed to mothers in the comparison group?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Was any fee or reimbursement reported for either the intervention or comparison group?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What measure is used to assess overall health and well-being in the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How is child psychological health and emotional behavior assessed in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is used to evaluate service access and utilization in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "At what age are the time points measured in the study?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "Which characteristic is used to assess economic costs in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is measured to determine child physical health and development in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is assessed to identify adverse events in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                }
+            ],
+            "coverage": {
+                "score": 8,
+                "comment": "Strong coverage of Methods, Interventions, and Outcomes. Underrepresented/missing: exclusion criteria, setting details (remote), place of delivery (health clinic), sample sizes per arm, items marked 'none reported' (e.g., SES, employment, education, infant gender), intervention theory, fidelity assessment, site adaptations, FV and 'Privilege Card' details, and xylitol gum/menus specifics."
+            },
+            "diversity": {
+                "score": 6,
+                "comment": "Phrasing and cognitive demand are mostly straightforward recall. To improve, include varied formats (true/false, multi-select, matching), scenario/application items, and questions on excluded criteria, setting, fidelity, adaptations, and additional intervention components (e.g., FV, privilege card)."
+            }
+        },
+        "questions_length": 29
+    },
+    {
+        "ID": "04376",
+        "Study_ID": "0802_031",
+        "Url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6727323/",
+        "Name": "pmc.ncbi_PMC6727323",
+        "Study characteristics": {
+            "Patient Sampling": [
+                "Target population: HIV‐tuberculosis (TB) co‐infected patients receiving tuberculosis treatment",
+                "Recruitment: secondary analysis of two studies. The SAPiT study is a three‐arm, open‐label, randomized controlled trial conducted at the CAPRISA Thekwini HIV‐tuberculosis clinic with HIV‐tuberculosis co‐infected patients receiving tuberculosis treatment. After completion of follow‐up in the SAPiT trial, patients were offered enrolment into a prospective observational study, TB Recurrence upon Treatment with HAART (TRuTH), investigating the rate of TB recurrence in HIV‐infected adults on ART who had completed pulmonary TB treatment.",
+                "Inclusion criteria: SAPiT trial inclusion criteria: To be included, patients had to be independently confirmed at the Department of Medical Microbioloy, Nelson R. Mandela School of Medicine, to have AFB smear positive disease, initiated on the standard tuberculosis treatment regimen at the PCZCDC, have a CD4+ count &lt; 500 cells/mm<sup>3</sup> at screening and have no clinical contraindications to initiation of ART. Female participants were required to agree to use contraception while on efavirenz.",
+                "Exclusion criteria: no information on exclusion criteria for the SAPiT and TRuTH studies. In the current paper (secondary analysis), patients who never initiated ART, were lost to follow‐up in the SAPiT trial, did not receive ART from the site’s research pharmacy, and for whom pill count data was missing for more than 6 consecutive months in either study were excluded.",
+                "Study design: three‐arm, open‐label, randomized controlled trial (the SAPiT study); prospective observational study, (TRuTH study)"
+            ],
+            "Patient characteristics and setting": [
+                "Country: South Africa",
+                "World Bank Income classification: upper‐middle‐income",
+                "Study setting: the SAPiT trial (protocol number: CAPRISA 003) was conducted at the CAPRISA eThekwini HIV‐tuberculosis clinic. This adjoins one of the largest ambulatory (outpatient) tuberculosis facilities in South Africa, the Prince Cyril Zulu Communicable Disease Centre (PCZCDC) in Durban.The TRuTH study was based in Durban, KwaZulu‐Natal, South Africa, an area where it was estimated that 70% of TB patients were HIV co‐infected.",
+                "Study dates: SAPiT trial: June 2005 to July 2008; TRuTH observational study from November 2009 to July 2011 and follow‐up was completed in 2014",
+                "Age of population (years), median (IQR): 34 (29 to 40)",
+                "Gender (male %): 45.2",
+                "Participants included/analysed: 270/268 (year 1), 201 (year 2) ,166 (year 3), 243 (year 4), 233 (year 5)",
+                "First or second‐line regimen: first‐line",
+                "Type of ART: study patients were initiated on a once daily, weight‐based ART regimen containing EFV or NVP plus 3TC and enteric coated didanosine (ddI) either during or after completion of tuberculosis treatment.",
+                "Time on ART at enrolment: at least 6 months",
+                "Time on ART at measurement of viral load and adherence: different categories: 1 year, 2 years, 3 years, 4 years, 5 years"
+            ]
+        },
+        "Questions": {
+            "Patient Sampling": [
+                {
+                    "Question_id": "001",
+                    "Question": "What was the target population for the study?",
+                    "Options": [
+                        "A. HIV patients receiving ART",
+                        "B. HIV‐tuberculosis co‐infected patients receiving tuberculosis treatment",
+                        "C. Tuberculosis patients only",
+                        "D. HIV patients with CD4+ count < 200 cells/mm<sup>3</sup>"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "Which study design was used in the SAPiT trial?",
+                    "Options": [
+                        "A. Double-blind randomized controlled trial",
+                        "B. Single-arm observational study",
+                        "C. Three-arm open-label randomized controlled trial",
+                        "D. Cross-sectional study"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What was the inclusion criterion related to CD4+ count for the SAPiT trial?",
+                    "Options": [
+                        "A. CD4+ count < 200 cells/mm<sup>3</sup>",
+                        "B. CD4+ count < 500 cells/mm<sup>3</sup>",
+                        "C. CD4+ count > 500 cells/mm<sup>3</sup>",
+                        "D. CD4+ count between 200 and 500 cells/mm<sup>3</sup>"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "Which of the following was NOT an exclusion criterion for the secondary analysis in the current paper?",
+                    "Options": [
+                        "A. Patients who never initiated ART",
+                        "B. Patients who were lost to follow-up in the SAPiT trial",
+                        "C. Patients with pill count data missing for more than 3 consecutive months",
+                        "D. Patients who did not receive ART from the site’s research pharmacy"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "What type of study was the TRuTH study?",
+                    "Options": [
+                        "A. Randomized controlled trial",
+                        "B. Prospective observational study",
+                        "C. Retrospective cohort study",
+                        "D. Cross-sectional study"
+                    ],
+                    "Answer": "B"
+                }
+            ],
+            "Patient characteristics and setting": [
+                {
+                    "Question_id": "001",
+                    "Question": "In which country was the SAPiT trial conducted?",
+                    "Options": [
+                        "A. Brazil",
+                        "B. India",
+                        "C. South Africa",
+                        "D. Kenya"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "What is the World Bank Income classification of the country where the study was conducted?",
+                    "Options": [
+                        "A. Low-income",
+                        "B. Lower-middle-income",
+                        "C. Upper-middle-income",
+                        "D. High-income"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "During which years was the SAPiT trial conducted?",
+                    "Options": [
+                        "A. 2003 to 2005",
+                        "B. 2005 to 2008",
+                        "C. 2007 to 2010",
+                        "D. 2009 to 2012"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "What was the median age of the study population?",
+                    "Options": [
+                        "A. 30 years",
+                        "B. 34 years",
+                        "C. 38 years",
+                        "D. 40 years"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "What percentage of the study population was male?",
+                    "Options": [
+                        "A. 35.2%",
+                        "B. 40.0%",
+                        "C. 45.2%",
+                        "D. 50.0%"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "How many participants were analyzed in the first year of the study?",
+                    "Options": [
+                        "A. 166",
+                        "B. 201",
+                        "C. 233",
+                        "D. 268"
+                    ],
+                    "Answer": "D"
+                },
+                {
+                    "Question_id": "007",
+                    "Question": "What type of ART regimen were the study patients initiated on?",
+                    "Options": [
+                        "A. Twice daily weight-based regimen",
+                        "B. Once daily weight-based regimen",
+                        "C. Fixed-dose combination regimen",
+                        "D. Intermittent regimen"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "008",
+                    "Question": "What was the minimum time on ART at enrolment for the study patients?",
+                    "Options": [
+                        "A. 3 months",
+                        "B. 6 months",
+                        "C. 9 months",
+                        "D. 12 months"
+                    ],
+                    "Answer": "B"
+                }
+            ]
+        },
+        "assessment": {
+            "question_scores": [
+                {
+                    "question": "What was the target population for the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which study design was used in the SAPiT trial?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the inclusion criterion related to CD4+ count for the SAPiT trial?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which of the following was NOT an exclusion criterion for the secondary analysis in the current paper?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What type of study was the TRuTH study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "In which country was the SAPiT trial conducted?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the World Bank Income classification of the country where the study was conducted?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "During which years was the SAPiT trial conducted?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the median age of the study population?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What percentage of the study population was male?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many participants were analyzed in the first year of the study?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "What type of ART regimen were the study patients initiated on?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the minimum time on ART at enrolment for the study patients?",
+                    "accuracy": 1,
+                    "fluency": 10
+                }
+            ],
+            "coverage": {
+                "score": 7,
+                "comment": "Key elements are covered (target population, SAPiT/TRuTH designs, CD4+ inclusion, exclusion criteria for secondary analysis, country/income, dates for SAPiT, age, sex, first-year analyzed count, ART regimen frequency, time on ART at enrolment). Underrepresented or missing: recruitment/secondary-analysis context, detailed inclusion criteria (AFB smear positivity, initiation at PCZCDC, contraception requirement, no contraindications), specific setting details (clinic names/Durban context), TRuTH dates and follow-up completion, explicit first-line regimen status, ART drug components, time-on-ART measurement categories, and participant counts for years 2–5."
+            },
+            "diversity": {
+                "score": 4,
+                "comment": "Most items are straightforward factual recall multiple-choice questions with similar phrasing. To improve diversity, include varied formats (e.g., true/false, select-all-that-apply), comparative or integrative questions (contrast SAPiT vs TRuTH timelines/designs), scenario-based application (identify who meets inclusion/exclusion), questions on setting specifics, and items requiring interpretation of numerical data (e.g., IQR, multi-year participant trends)."
+            }
+        },
+        "questions_length": 13
+    },
+    {
+        "ID": "13976",
+        "Study_ID": "4795_053",
+        "Url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3993995/",
+        "Name": "pmc.ncbi_PMC3993995",
+        "Study characteristics": {
+            "Methods": [
+                "<b>Study design</b>: controlled before‐after",
+                "<b>Sampling frame</b>: 2 low‐income, predominantly ethnic minority neighborhoods in Sacramento, CA, compared with the other neighborhoods of Sacramento, CA",
+                "<b>Sampling method</b>: not reported",
+                "<b>Collection method</b>: police incidence reports and emergency services records",
+                "<b>Description of the community coalition</b>: Coalition included local law enforcement officers, medical service providers, alcohol‐beverage control agents, CBO staff, community activists, parents, and youth"
+            ],
+            "Participants": [
+                "<b>Communities</b>: 2 neighborhoods in Sacramento, CA",
+                "<b>Country</b>: USA",
+                "<b>Ages included in assessment</b>: general public in 37 intervention census blocks (North and South Sacramento); 243 remaining Sacramento census blocks served as the control",
+                "<b>Reasons provided for selection of intervention community</b>: predominantly low‐income, ethnic minority neighborhoods with high risk for alcohol‐related violence and injuries",
+                "<b>Intervention community (population size)</b>: not reported",
+                "<b>Comparison community (population size)</b>: not reported"
+            ],
+            "Interventions": [
+                "<b>Name of intervention</b>: Sacramento Neighborhood Alcohol Prevention Project (SNAPP)",
+                "<b>Theory</b>: not reported",
+                "<b>Aim</b>: to test the effectiveness of neighborhood‐based interventions in reducing alcohol access and drinking and related problems",
+                "<b>Description of costs and resources</b>: unknown",
+                "<b>Components of the intervention</b>: (1) community mobilization; (2) community awareness; (3) responsible beverage service; (4) underage‐access law enforcement; and (5) intoxicated‐patron law enforcement",
+                "<b>Start date</b>: July 2000",
+                "<b>Duration</b>: 30 months"
+            ],
+            "Outcomes": [
+                "<b>Outcomes and measures</b>: assaults and emergency services events (Chi<sup>2</sup> and effect sizes)",
+                "<b>Time points</b>: baseline (July 2000) and follow‐up (2002 and 2003)"
+            ]
+        },
+        "Questions": {
+            "Outcomes": [
+                {
+                    "Question_id": "001",
+                    "Question": "What are the time points for the follow-up measurements in the RCT study?",
+                    "Options": [
+                        "A. 2000 and 2001",
+                        "B. 2002 and 2003",
+                        "C. 2001 and 2002",
+                        "D. 2003 and 2004"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "What baseline year was used for the outcomes and measures in the RCT study?",
+                    "Options": [
+                        "A. 1999",
+                        "B. 2001",
+                        "C. 2000",
+                        "D. 2002"
+                    ],
+                    "Answer": "C"
+                }
+            ],
+            "Methods": [
+                {
+                    "Question_id": "001",
+                    "Question": "What is the study design used in the RCT study?",
+                    "Options": [
+                        "A. Randomized controlled trial",
+                        "B. Controlled before-after",
+                        "C. Cross-sectional",
+                        "D. Cohort study"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "In which location was the study conducted?",
+                    "Options": [
+                        "A. Los Angeles CA",
+                        "B. San Francisco CA",
+                        "C. Sacramento CA",
+                        "D. San Diego CA"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What was the sampling frame for the study?",
+                    "Options": [
+                        "A. High-income neighborhoods in Sacramento CA",
+                        "B. Middle-income neighborhoods in Sacramento CA",
+                        "C. Low-income predominantly ethnic minority neighborhoods in Sacramento CA",
+                        "D. Rural neighborhoods in Sacramento CA"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "What collection methods were used in the study?",
+                    "Options": [
+                        "A. Surveys and interviews",
+                        "B. Police incidence reports and emergency services records",
+                        "C. Focus groups and observations",
+                        "D. Online questionnaires"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "Which groups were included in the community coalition?",
+                    "Options": [
+                        "A. Local law enforcement officers and teachers",
+                        "B. Medical service providers and alcohol-beverage control agents",
+                        "C. CBO staff and community activists",
+                        "D. All of the above"
+                    ],
+                    "Answer": "D"
+                }
+            ],
+            "Participants": [
+                {
+                    "Question_id": "001",
+                    "Question": "In which city were the neighborhoods involved in the RCT study located?",
+                    "Options": [
+                        "A. Los Angeles CA",
+                        "B. Sacramento CA",
+                        "C. San Francisco CA",
+                        "D. San Diego CA"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "How many neighborhoods in Sacramento, CA, were included in the study?",
+                    "Options": [
+                        "A. 1",
+                        "B. 2",
+                        "C. 3",
+                        "D. 4"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "How many intervention census blocks were included in the study?",
+                    "Options": [
+                        "A. 25",
+                        "B. 37",
+                        "C. 50",
+                        "D. 243"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "How many census blocks served as the control in the study?",
+                    "Options": [
+                        "A. 37",
+                        "B. 100",
+                        "C. 243",
+                        "D. 300"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "What was a reason provided for selecting the intervention community?",
+                    "Options": [
+                        "A. High-income neighborhoods",
+                        "B. Predominantly low-income ethnic minority neighborhoods",
+                        "C. Suburban neighborhoods",
+                        "D. Neighborhoods with low risk for alcohol-related violence"
+                    ],
+                    "Answer": "B"
+                }
+            ],
+            "Interventions": [
+                {
+                    "Question_id": "001",
+                    "Question": "What is the name of the intervention described in the study?",
+                    "Options": [
+                        "A. Sacramento Neighborhood Alcohol Prevention Project (SNAPP)",
+                        "B. Community Alcohol Reduction Initiative (CARI)",
+                        "C. Neighborhood Alcohol Control Program (NACP)",
+                        "D. Alcohol Prevention and Awareness Project (APAP)"
+                    ],
+                    "Answer": "A"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "What is the primary aim of the SNAPP intervention?",
+                    "Options": [
+                        "A. To increase alcohol sales in neighborhoods",
+                        "B. To test the effectiveness of neighborhood‐based interventions in reducing alcohol access and drinking and related problems",
+                        "C. To promote alcohol consumption among adults",
+                        "D. To develop new alcoholic beverages"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "Which of the following is NOT a component of the SNAPP intervention?",
+                    "Options": [
+                        "A. Community mobilization",
+                        "B. Underage‐access law enforcement",
+                        "C. Alcohol production enhancement",
+                        "D. Responsible beverage service"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "When did the SNAPP intervention start?",
+                    "Options": [
+                        "A. January 2000",
+                        "B. July 2000",
+                        "C. December 1999",
+                        "D. June 2001"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "How long did the SNAPP intervention last?",
+                    "Options": [
+                        "A. 12 months",
+                        "B. 24 months",
+                        "C. 30 months",
+                        "D. 36 months"
+                    ],
+                    "Answer": "C"
+                }
+            ]
+        },
+        "assessment": {
+            "question_scores": [
+                {
+                    "question": "What are the time points for the follow-up measurements in the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "What baseline year was used for the outcomes and measures in the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "What is the study design used in the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "In which location was the study conducted?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the sampling frame for the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What collection methods were used in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which groups were included in the community coalition?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "In which city were the neighborhoods involved in the RCT study located?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "How many neighborhoods in Sacramento, CA, were included in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many intervention census blocks were included in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many census blocks served as the control in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was a reason provided for selecting the intervention community?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the name of the intervention described in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the primary aim of the SNAPP intervention?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which of the following is NOT a component of the SNAPP intervention?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "When did the SNAPP intervention start?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How long did the SNAPP intervention last?",
+                    "accuracy": 1,
+                    "fluency": 10
+                }
+            ],
+            "coverage": {
+                "score": 7,
+                "comment": "Covered: design, sampling frame, location, collection methods, coalition, community counts, census blocks, selection reasons, intervention name/aim/components/start/duration, time points. Missing/underrepresented: country, sampling method (not reported), ages included, intervention/comparison population sizes (not reported), theory (not reported), costs/resources (unknown), and specific outcomes/measures (assaults, emergency services, statistics)."
+            },
+            "diversity": {
+                "score": 6,
+                "comment": "Good topical spread across methods, participants, interventions, and outcomes, but most items are recall-style MCQs. Consider adding questions about outcomes/measures, country, and ‘not reported/unknown’ items, and vary formats (e.g., true/false, scenario/application, multi-select). Also avoid mislabeling the design as an RCT."
+            }
+        },
+        "questions_length": 17
+    },
+    {
+        "ID": "03616",
+        "Study_ID": "0623_014",
+        "Url": "https://www.cambridge.org/core/journals/epidemiology-and-infection/article/diarrhoea-prevention-in-a-highrisk-rural-kenyan-population-through-pointofuse-chlorination-safe-water-storage-sanitation-and-rainwater-harvesting/411217FC2885B2B207B859827A2F57F3",
+        "Name": "cambridge_411217FC2885B2B207B859827A2F57F3",
+        "Study characteristics": {
+            "Methods": [
+                "Cluster non‐randomized controlled trial among 18 clusters (12 intervention, 6 control villages)"
+            ],
+            "Participants": [
+                "960 children &lt; 5 years"
+            ],
+            "Interventions": [
+                "Combined WASH intervention that included components of sanitation and water supply and quality improvement. The sanitation intervention included the promotion of latrines with cement sanitary platforms and VIP latrines, each of which was lined with cement trapezoidal blocks and had a superstructure made of bricks or tree branches. Communities were also taught about the link between sanitation and health. Interested persons were provided training in manufacture of cement platforms and blocks as well as construction of both types of latrine. The programme paid for 40% of latrine costs and community members paid for 60% of costs and provided the labour. The water supply and quality intervention included digging shallow wells, promoting rainwater harvesting, and the promotion and selling of chlorine‐based water disinfection solution and safe storage containers in villages, including a social marketing campaign."
+            ],
+            "Outcomes": [
+                "Diarrhoea incidence in children &lt; 5 years. Diarrhoea was defined as 3 or more loose stools in a 24‐hour period, with a 7‐day recall period."
+            ]
+        },
+        "Questions": {
+            "Methods": [
+                {
+                    "Question_id": "001",
+                    "Question": "How many clusters were involved in the non-randomized controlled trial?",
+                    "Options": [
+                        "A. 18",
+                        "B. 12",
+                        "C. 6",
+                        "D. 24"
+                    ],
+                    "Answer": "A"
+                }
+            ],
+            "Participants": [
+                {
+                    "Question_id": "001",
+                    "Question": "How many children under 5 years old participated in the study?",
+                    "Options": [
+                        "A. 800",
+                        "B. 960",
+                        "C. 1000",
+                        "D. 1200"
+                    ],
+                    "Answer": "B"
+                }
+            ],
+            "Interventions": [
+                {
+                    "Question_id": "001",
+                    "Question": "What percentage of latrine costs was paid by the community members?",
+                    "Options": [
+                        "A. 20%",
+                        "B. 40%",
+                        "C. 60%",
+                        "D. 80%"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "What type of water disinfection solution was promoted in the intervention?",
+                    "Options": [
+                        "A. Iodine-based solution",
+                        "B. Chlorine-based solution",
+                        "C. UV-based solution",
+                        "D. Ozone-based solution"
+                    ],
+                    "Answer": "B"
+                }
+            ],
+            "Outcomes": [
+                {
+                    "Question_id": "001",
+                    "Question": "How was diarrhoea defined in the study?",
+                    "Options": [
+                        "A. 2 or more loose stools in a 48-hour period",
+                        "B. 3 or more loose stools in a 24-hour period",
+                        "C. 3 or more loose stools in a 48-hour period",
+                        "D. 2 or more loose stools in a 24-hour period"
+                    ],
+                    "Answer": "B"
+                }
+            ]
+        },
+        "assessment": {
+            "question_scores": [
+                {
+                    "question": "How many clusters were involved in the non-randomized controlled trial?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many children under 5 years old participated in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What percentage of latrine costs was paid by the community members?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What type of water disinfection solution was promoted in the intervention?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How was diarrhoea defined in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                }
+            ],
+            "coverage": {
+                "score": 8,
+                "comment": "All major domains (Methods, Participants, Interventions, Outcomes) are represented. Underrepresented details include: allocation (12 intervention vs 6 control), the non-randomized design, specific sanitation components (VIP latrines, materials, training), water components (shallow wells, rainwater harvesting, safe storage, social marketing), and the 7-day recall period for the outcome."
+            },
+            "diversity": {
+                "score": 5,
+                "comment": "Questions are clear but all are simple factual recall. To improve diversity, add items on study design and allocation, scenario-based or calculation questions (e.g., cost-sharing implications), rationale/interpretation (link between sanitation and health), and coverage of additional intervention components or the outcome recall period."
+            }
+        },
+        "questions_length": 5
+    },
+    {
+        "ID": "07478",
+        "Study_ID": "1517_006",
+        "Url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2832641/",
+        "Name": "pmc.ncbi_PMC2832641",
+        "Study characteristics": {
+            "Methods": [
+                "Four‐arm RCT",
+                "<b>Number analyzed/randomized:</b> 583/641",
+                "<b>Statistical analysis:</b> ITT analysis; Chi² and ANOVA test; power analysis",
+                "<b>Funding source:</b> NIH Cooperative Agreement (U01 AT 001110)",
+                "Ethical approval and informed consent obtained"
+            ],
+            "Participants": [
+                "<b>Participant recruitment:</b> mail, advertisements, and newsletters",
+                "<b>Setting:</b> two research clinics in western Washington and northern California in USA",
+                "<b>Inclusion criteria:</b> 1) participants planned to continue enrolment in health plan; 2) 18 to 70 years; 3) at least one primary care visit for back pain within the past 3 to 12 months; 4) nonspecific and uncomplicated LBP; 5) physician was willing to have patients included in the study; 6) lived within 45 min travel time from study clinic",
+                "<b>Exclusion criteria</b>: 1) specific causes of back pain (e.g. cancer, fractures, spinal stenosis, infections); 2) complicated back problems (e.g. sciatica, prior back surgery, medicolegal issues); 3) possible contraindications for acupuncture (e.g. coagulation disorders, cardiac pacemakers, pregnancy, seizure disorder); 4) conditions making treatment difficult (e.g. paralysis, psychoses); 5) conditions that might confound treatment effects or interpretation of results (e.g. severe fibromyalgia, rheumatoid arthritis, concurrent care from other providers)",
+                "<b>Age (mean):</b> 47",
+                "<b>Gender (female):</b> 62%",
+                "<b>Pain duration (reported ≥ 1 yr)</b>: 2/3 participants",
+                "<b>Pain intensity (mean):</b> NR"
+            ],
+            "Interventions": [
+                "<b>1) GROUP 1:</b> acupuncture (standardized)",
+                "Acupuncture points: bilateral BL23, BL40, KI3, Ashi point, and Du3 (8 points in total)",
+                "Depth: NR",
+                "De Qi: 20 min treatment with 10 min stimulation by twirling the needles just prior to needle removal to elicit De Qi",
+                "Sessions: 10 sessions (20 min, 2/week for 3 weeks + 1/week for 4 weeks)",
+                "Acupuncturist experience: six licensed acupuncturists with experience of 4 to 19 years",
+                "<b>2) GROUP 2:</b> individualized acupuncture",
+                "The treatment was prescribed by an acupuncturist diagnostician at each visit. Average of 10.8 needles (range, 5 to 20) retained for a mean of 18 min (range, 15 to 20 min) were used. Seventy‐four distinct points were used, half on the bladder meridian, which includes points on the back and legs. No constraints on depth or manipulation. Treatment schedule and others were same as Group 1.",
+                "<b>3) GROUP 3:</b> sham acupuncture",
+                "The acupuncturists simulated the insertion and the removal of needles at the eight standardized acupuncture points. A toothpick in a needle guide tube was used, which was found to be a credible acupuncture treatment by acupuncture‐naive participants with back pain. All acupuncture points were stimulated at 10 min with the tip of a toothpick and again at 20 min just before they were 'removed'. Participants were asked to wear eye masks and lie prone, with their heads in a face cradle. Same treatment schedule as Group 1",
+                "<b>4) GROUP 4:</b> usual care",
+                "Participants received usual care that they and their physicians chose (mostly medications, primary care, and physical therapy visits).",
+                "<b>Co‐intervention:</b> a self‐care book with information on managing flare‐ups, exercise, and lifestyle modifications",
+                "<b>Duration of treatment:</b> 7 weeks",
+                "<b>Duration of follow‐up:</b> 52 weeks after beginning of treatment"
+            ],
+            "Outcomes": [
+                "<b>1) Back‐specific function status:</b> RMDQ (0 to 23), lower values better",
+                "<b>2) Quality of life:</b> sub‐scale of SF‐36 in physical health and mental health; higher values better",
+                "<b>3) Pain‐related disability:</b> cutting down on activities for more than 7 days in the past month (%); missed work or school for more than a day in the past month (%); no accurate data provided for sham and true acupuncture",
+                "<b>Assessment times:</b> 8, 26, and 52 weeks after beginning of treatment",
+                "<b>Costs:</b> NR (the reported total costs excluded acupuncture spending)",
+                "<b>Adverse effects:</b> 12 of 477 participants in real acupuncture groups reported pain, dizziness, and back spasms."
+            ]
+        },
+        "Questions": {
+            "Methods": [
+                {
+                    "Question_id": "001",
+                    "Question": "What type of study design was used in the RCT?",
+                    "Options": [
+                        "A. Two-arm RCT",
+                        "B. Three-arm RCT",
+                        "C. Four-arm RCT",
+                        "D. Five-arm RCT"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "How many participants were analyzed in the study?",
+                    "Options": [
+                        "A. 641",
+                        "B. 583",
+                        "C. 500",
+                        "D. 600"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What statistical tests were used in the analysis of the RCT?",
+                    "Options": [
+                        "A. T-test and Chi² test",
+                        "B. ANOVA test and T-test",
+                        "C. Chi² and ANOVA test",
+                        "D. Regression analysis and ANOVA test"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "Which organization funded the RCT study?",
+                    "Options": [
+                        "A. National Science Foundation",
+                        "B. World Health Organization",
+                        "C. NIH Cooperative Agreement",
+                        "D. Centers for Disease Control and Prevention"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "Was ethical approval and informed consent obtained for the study?",
+                    "Options": [
+                        "A. Yes",
+                        "B. No",
+                        "C. Only ethical approval was obtained",
+                        "D. Only informed consent was obtained"
+                    ],
+                    "Answer": "A"
+                }
+            ],
+            "Participants": [
+                {
+                    "Question_id": "001",
+                    "Question": "How were participants recruited for the RCT study?",
+                    "Options": [
+                        "A. Through social media platforms",
+                        "B. By mail advertisements and newsletters",
+                        "C. Via phone calls",
+                        "D. Through community events"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "What was the setting of the RCT study?",
+                    "Options": [
+                        "A. Three hospitals in eastern USA",
+                        "B. Two research clinics in western Washington and northern California",
+                        "C. A single clinic in southern California",
+                        "D. Multiple clinics across the Midwest USA"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What was the age range for inclusion in the study?",
+                    "Options": [
+                        "A. 18 to 65 years",
+                        "B. 21 to 70 years",
+                        "C. 18 to 70 years",
+                        "D. 25 to 75 years"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "What percentage of participants in the study were female?",
+                    "Options": [
+                        "A. 50%",
+                        "B. 62%",
+                        "C. 70%",
+                        "D. 80%"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "What proportion of participants reported pain duration of one year or more?",
+                    "Options": [
+                        "A. 1/3 of participants",
+                        "B. 1/2 of participants",
+                        "C. 2/3 of participants",
+                        "D. 3/4 of participants"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "Which of the following was an exclusion criterion for the study?",
+                    "Options": [
+                        "A. Participants with mild fibromyalgia",
+                        "B. Participants with prior back surgery",
+                        "C. Participants with minor back pain",
+                        "D. Participants living more than 30 minutes away from the clinic"
+                    ],
+                    "Answer": "B"
+                }
+            ],
+            "Interventions": [
+                {
+                    "Question_id": "001",
+                    "Question": "How many acupuncture points were used in Group 1's standardized acupuncture treatment?",
+                    "Options": [
+                        "A. 5",
+                        "B. 8",
+                        "C. 10",
+                        "D. 12"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "How many sessions were conducted for Group 1's acupuncture treatment over the study period?",
+                    "Options": [
+                        "A. 5",
+                        "B. 7",
+                        "C. 10",
+                        "D. 12"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What was the average number of needles used in Group 2's individualized acupuncture treatment?",
+                    "Options": [
+                        "A. 5",
+                        "B. 10.8",
+                        "C. 15",
+                        "D. 20"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "How long was each acupuncture session in Group 2 on average?",
+                    "Options": [
+                        "A. 10 minutes",
+                        "B. 15 minutes",
+                        "C. 18 minutes",
+                        "D. 20 minutes"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "What tool was used in Group 3's sham acupuncture to simulate needle insertion?",
+                    "Options": [
+                        "A. Needle",
+                        "B. Toothpick",
+                        "C. Pen",
+                        "D. Cotton swab"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "What additional material was provided as a co-intervention across all groups?",
+                    "Options": [
+                        "A. Exercise equipment",
+                        "B. Self-care book",
+                        "C. Dietary supplements",
+                        "D. Meditation app"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "007",
+                    "Question": "What was the total duration of treatment for the study?",
+                    "Options": [
+                        "A. 4 weeks",
+                        "B. 6 weeks",
+                        "C. 7 weeks",
+                        "D. 8 weeks"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "008",
+                    "Question": "How long was the follow-up period after the beginning of treatment?",
+                    "Options": [
+                        "A. 12 weeks",
+                        "B. 24 weeks",
+                        "C. 36 weeks",
+                        "D. 52 weeks"
+                    ],
+                    "Answer": "D"
+                }
+            ],
+            "Outcomes": [
+                {
+                    "Question_id": "001",
+                    "Question": "What is the range of values for the RMDQ scale used to assess back-specific function status in the study?",
+                    "Options": [
+                        "A. 0 to 10",
+                        "B. 0 to 23",
+                        "C. 0 to 50",
+                        "D. 0 to 100"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "Which sub-scale of SF-36 is used to evaluate quality of life in the study?",
+                    "Options": [
+                        "A. Emotional health",
+                        "B. Social health",
+                        "C. Physical health and mental health",
+                        "D. Environmental health"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "At which time intervals were assessments conducted after the beginning of treatment in the study?",
+                    "Options": [
+                        "A. 4 12 and 24 weeks",
+                        "B. 8 26 and 52 weeks",
+                        "C. 10 30 and 60 weeks",
+                        "D. 6 18 and 36 weeks"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "How many participants in the real acupuncture groups reported adverse effects such as pain, dizziness, and back spasms?",
+                    "Options": [
+                        "A. 5 of 477",
+                        "B. 12 of 477",
+                        "C. 20 of 477",
+                        "D. 30 of 477"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "What aspect of costs was not reported in the study?",
+                    "Options": [
+                        "A. Total costs",
+                        "B. Medication costs",
+                        "C. Acupuncture spending",
+                        "D. Hospitalization costs"
+                    ],
+                    "Answer": "C"
+                }
+            ]
+        },
+        "assessment": {
+            "question_scores": [
+                {
+                    "question": "What type of study design was used in the RCT?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "How many participants were analyzed in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What statistical tests were used in the analysis of the RCT?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which organization funded the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "Was ethical approval and informed consent obtained for the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How were participants recruited for the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "What was the setting of the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the age range for inclusion in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What percentage of participants in the study were female?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What proportion of participants reported pain duration of one year or more?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which of the following was an exclusion criterion for the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many acupuncture points were used in Group 1's standardized acupuncture treatment?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many sessions were conducted for Group 1's acupuncture treatment over the study period?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the average number of needles used in Group 2's individualized acupuncture treatment?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How long was each acupuncture session in Group 2 on average?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What tool was used in Group 3's sham acupuncture to simulate needle insertion?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What additional material was provided as a co-intervention across all groups?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the total duration of treatment for the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How long was the follow-up period after the beginning of treatment?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the range of values for the RMDQ scale used to assess back-specific function status in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which sub-scale of SF-36 is used to evaluate quality of life in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "At which time intervals were assessments conducted after the beginning of treatment in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many participants in the real acupuncture groups reported adverse effects such as pain, dizziness, and back spasms?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What aspect of costs was not reported in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                }
+            ],
+            "coverage": {
+                "score": 7,
+                "comment": "Well covers design, sample analyzed, key stats, recruitment/setting, several intervention details, assessment times, and adverse events. Missing/underrepresented: ITT and power analysis, number randomized, several inclusion criteria (health plan continuation, prior primary care visit, 45-min travel), mean age and pain intensity (NR), De Qi/acupuncturist experience and session schedule specifics, detailed sham procedures, pain-related disability outcomes and note about missing data, and scale directionality."
+            },
+            "diversity": {
+                "score": 6,
+                "comment": "Most items are recall-style “what/how many/which” questions. Consider adding items on interpreting scales (higher vs lower better), comparing groups, rationale/credibility of sham, distinguishing analyzed vs randomized, ITT definition, and scenario-based or true/false formats to vary cognitive demand and phrasing."
+            }
+        },
+        "questions_length": 24
+    },
+    {
+        "ID": "14985",
+        "Study_ID": "5934_001",
+        "Url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1356238/",
+        "Name": "pmc.ncbi_PMC1356238",
+        "Study characteristics": {
+            "Methods": [
+                "Randomised clinical trial."
+            ],
+            "Participants": [
+                "Country: United Kingdom.",
+                "Number randomised: 40.",
+                "Mean age: 53 years.",
+                "Females: 35 (87.5%).",
+                "Inclusion criteria:",
+                "Elective laparoscopic cholecystectomy",
+                "ASA I or II",
+                "Exclusion criteria:",
+                "Breast feeding."
+            ],
+            "Interventions": [
+                "Participants were randomly assigned to two groups:",
+                "Group 1: abdominal wall lift with 4 mm Hg pneumoperitoneum (n = 20).",
+                "Group 2: pneumoperitoneum with 12 mm Hg pressure (n = 20).",
+                "Device used for abdominal lift: subcutaneous device."
+            ],
+            "Outcomes": [
+                "The outcome measures reported were complications, conversion to open cholecystectomy, and operating time."
+            ]
+        },
+        "Questions": {
+            "Methods": [
+                {
+                    "Question_id": "001",
+                    "Question": "What type of study design was used in the research?",
+                    "Options": [
+                        "A. Cohort study",
+                        "B. Case-control study",
+                        "C. Randomised clinical trial",
+                        "D. Cross-sectional study"
+                    ],
+                    "Answer": "C"
+                }
+            ],
+            "Outcomes": [
+                {
+                    "Question_id": "001",
+                    "Question": "Which of the following was NOT reported as an outcome measure in the study?",
+                    "Options": [
+                        "A. Complications",
+                        "B. Conversion to open cholecystectomy",
+                        "C. Operating time",
+                        "D. Patient satisfaction"
+                    ],
+                    "Answer": "D"
+                }
+            ],
+            "Participants": [
+                {
+                    "Question_id": "001",
+                    "Question": "What is the country where the RCT study was conducted?",
+                    "Options": [
+                        "A. United States",
+                        "B. United Kingdom",
+                        "C. Canada",
+                        "D. Australia"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "How many participants were randomized in the study?",
+                    "Options": [
+                        "A. 20",
+                        "B. 30",
+                        "C. 40",
+                        "D. 50"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What was the mean age of the participants in the study?",
+                    "Options": [
+                        "A. 45 years",
+                        "B. 53 years",
+                        "C. 60 years",
+                        "D. 65 years"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "What percentage of the participants were female?",
+                    "Options": [
+                        "A. 75%",
+                        "B. 80%",
+                        "C. 85%",
+                        "D. 87.5%"
+                    ],
+                    "Answer": "D"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "Which of the following was an inclusion criterion for the study?",
+                    "Options": [
+                        "A. Breastfeeding",
+                        "B. ASA III or IV",
+                        "C. Elective laparoscopic cholecystectomy",
+                        "D. Emergency surgery"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "Which of the following was an exclusion criterion for the study?",
+                    "Options": [
+                        "A. ASA I or II",
+                        "B. Elective laparoscopic cholecystectomy",
+                        "C. Breastfeeding",
+                        "D. Age over 60 years"
+                    ],
+                    "Answer": "C"
+                }
+            ],
+            "Interventions": [
+                {
+                    "Question_id": "001",
+                    "Question": "How many participants were assigned to the abdominal wall lift group with 4 mm Hg pneumoperitoneum?",
+                    "Options": [
+                        "A. 15",
+                        "B. 20",
+                        "C. 25",
+                        "D. 30"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "What was the pressure used for pneumoperitoneum in Group 2?",
+                    "Options": [
+                        "A. 4 mm Hg",
+                        "B. 8 mm Hg",
+                        "C. 12 mm Hg",
+                        "D. 16 mm Hg"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What device was used for the abdominal lift in Group 1?",
+                    "Options": [
+                        "A. Subcutaneous device",
+                        "B. Intravenous device",
+                        "C. Extracorporeal device",
+                        "D. Intra-abdominal device"
+                    ],
+                    "Answer": "A"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "How many participants were there in total across both groups in the study?",
+                    "Options": [
+                        "A. 30",
+                        "B. 35",
+                        "C. 40",
+                        "D. 45"
+                    ],
+                    "Answer": "C"
+                }
+            ]
+        },
+        "assessment": {
+            "question_scores": [
+                {
+                    "question": "What type of study design was used in the research?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which of the following was NOT reported as an outcome measure in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the country where the RCT study was conducted?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "How many participants were randomized in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the mean age of the participants in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What percentage of the participants were female?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which of the following was an inclusion criterion for the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which of the following was an exclusion criterion for the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many participants were assigned to the abdominal wall lift group with 4 mm Hg pneumoperitoneum?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the pressure used for pneumoperitoneum in Group 2?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What device was used for the abdominal lift in Group 1?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many participants were there in total across both groups in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                }
+            ],
+            "coverage": {
+                "score": 9,
+                "comment": "Broad coverage of methods, outcomes, participants, and interventions. Minor gaps: ASA I/II inclusion criterion not directly queried; the raw female count (35) is not asked."
+            },
+            "diversity": {
+                "score": 6,
+                "comment": "Questions are mostly factual recall with similar phrasing. Consider adding items on ASA classification, interpretation or comparison of interventions/outcomes, and varied formats (e.g., true/false, multi-select, scenario-based)."
+            }
+        },
+        "questions_length": 12
+    },
+    {
+        "ID": "02005",
+        "Study_ID": "0323_025",
+        "Url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5056149/",
+        "Name": "pmc.ncbi_PMC5056149",
+        "Study characteristics": {
+            "Methods": [
+                "<b>Study design:</b> randomised controlled trial",
+                "<b>Study grouping:</b> parallel group",
+                "<b>Duration of study:</b> May 2012 to August 2014",
+                "<b>Ethics approvals:</b> approval from 4 IRBs at the universities and colleges where recruitment took place",
+                "<b>Location of study:</b> 4 US universities and community colleges, including East Carolina",
+                "<b>Randomisation method:</b> participants were randomised to the interactive programme or psychoeducational website based on a computerised coin flip."
+            ],
+            "Participants": [
+                "<b>Baseline characteristics</b>",
+                "CBT (CBT‐online)",
+                "Participants (at randomisation): 46",
+                "Gender: 100% female participants",
+                "Age: not given",
+                "Ethnicity: 41.3% white, 21.7% Black, 38.3% other",
+                "Disability: not given",
+                "Time since trauma: not given",
+                "Income: not given",
+                "Education (% high school, college or apprentice, university or years of education): all college students",
+                "Employment: not given",
+                "Sexual violence in adulthood: 100%",
+                "Comorbid conditions: not given",
+                "Baseline PTSD, M (SD): 23.7 (6.5)",
+                "Partnered: not given",
+                "Randomised (N): 46",
+                "Completed post‐treatment assessment (N): 26",
+                "Dropped out or removed prior to analysis (N): 24",
+                "Numbers analysed at final applicable time point (N): 22",
+                "Number of sessions: not given",
+                "Treatment completion: 26 (57%)",
+                "Minimal intervention (psychoeducation website)",
+                "Participants (select at randomisation if available): 41",
+                "Gender: 100% female participants",
+                "Age: not given",
+                "Ethnicity: 51.2% white, 29.3% Black, 14.6% other",
+                "Disability: not given",
+                "Time since trauma: not given",
+                "Income: not given",
+                "Education (% high school, college or apprentice, university or years of education): all college students",
+                "Employment: not given",
+                "Sexual violence in adulthood: 100%",
+                "Comorbid conditions: not given",
+                "Baseline PTSD, M (SD): 23 (7.3)",
+                "Partnered: not given",
+                "Randomised (N): 41",
+                "Completed post‐treatment assessment (N): 29",
+                "Dropped out or removed prior to analysis (N): 20",
+                "Numbers analysed at final applicable time point (N): 21",
+                "Number of sessions: not given",
+                "Treatment completion: 29 (71%)",
+                "Overall",
+                "Participants (at randomisation): 87",
+                "Gender: 100% female participants",
+                "Age, M (range): 22 years (18 years to 42 years)",
+                "Ethnicity: 46% white, 25.3% Black, 20.7% other",
+                "Disability: not given",
+                "Time since trauma, M: &lt; 4 years",
+                "Income: not given",
+                "Education (% high school, college or apprentice, university or years of education): all college students",
+                "Employment: not given",
+                "Sexual violence in adulthood: 100%",
+                "Comorbid conditions: 56.2%",
+                "Baseline PTSD: not given",
+                "Partnered: not given",
+                "Approached (N): 150",
+                "Ineligible (N): 60",
+                "Declined (N): 4",
+                "Other (N): 1",
+                "Randomised (N): 87",
+                "Completed post‐treatment assessment (N): 55",
+                "Dropped out or removed prior to analysis (N): 44",
+                "Numbers analysed at final applicable time point (N): 43",
+                "<b>Inclusion criteria</b>",
+                "Participants had to have experienced a completed rape since the age of 14 years.",
+                "Participants had to have a PTSD diagnosis determined using the PSS‐I (Foa 1993).",
+                "Regular access to a computer and a telephone number at which they could be reliably reached",
+                "Currently a student enrolled at one of the universities involved in the study",
+                "<b>Exclusion criteria</b>",
+                "Currently receiving psychotherapy",
+                "Lack of stability on psychotropic medication (not been on current medication and dosage for at least 3 months)",
+                "Active suicidality as determined by interview utilising the Scale for Suicidal Ideation (Beck 1979)",
+                "Meeting DSM‐IV criteria for current substance dependence assessed with substance use disorder module of Structured Clinical Interview for the DSM‐IV",
+                "Too acutely distressed to participate",
+                "<b>Pretreatment:</b> none identified, with the exception that women assigned to the interactive programme were more likely to report that the perpetrator used severe force"
+            ],
+            "Interventions": [
+                "<b>Intervention characteristics</b>",
+                "CBT (online)",
+                "Planned number of intervention sessions: 9",
+                "Mode of delivery (face‐to‐face, online, video, telephone, blend, with explanation): online with feedback from therapist on exercises",
+                "Format (group, individual, blend): individual",
+                "Therapist qualifications and training appropriate (yes, no, unclear, with explanation): unclear, study staff are referred to as doctoral clinical psychology students or postdoctoral fellows, but training not specified",
+                "Research allegiance or conflict of interest (yes, no, unclear, with explanation): unclear, but presume they have developed the online programme",
+                "Treatment fidelity (yes, no, unclear, with explanation): yes, external raters reviewed therapeutic feedback provided to participants, which was \"uniformly high\", although unclear who they are or against what criteria",
+                "Intervention aim and theoretical basis: Survivor to Thriver Program consists of sequential modules, focusing on psychoeducation in modules 1 to 3; modules 4 and 5 introduce the cognitive model, teaching participants to identify distorted and unhelpful thoughts; the third phase focused on using a number of CBT techniques to address specific concerns among women following sexual assault.",
+                "Duration of intervention: 14 weeks",
+                "Minimal intervention (psychoeducation website)",
+                "Planned number of intervention sessions: 3; identical to Sessions 1 to 3 in other arm",
+                "Mode of delivery (face‐to‐face, online, video, telephone, blend, with explanation): online",
+                "Format (group, individual, blend): individual",
+                "Therapist qualifications and training appropriate: N/A",
+                "Research allegiance or conflict of interest: N/A",
+                "Treatment fidelity: N/A",
+                "Intervention aim and theoretical basis: the psychoeducational website contained the written content of the first 3 modules of the interactive programme, including the symptoms of PTSD, information about relaxing and grounding and information about healthy coping strategies.",
+                "Duration of intervention: 14 weeks"
+            ],
+            "Outcomes": [
+                "<b>PTSD</b>",
+                "Outcome type: continuous outcome",
+                "Scale used: PSS‐I",
+                "Direction: lower is better",
+                "Score range: 0 to 51",
+                "Data value: endpoint, 3 months",
+                "<b>Depression</b>",
+                "Outcome type: continuous outcome",
+                "Scale used: CES‐D",
+                "Direction: lower is better",
+                "Score range: 0 to 60",
+                "Data value: endpoint, 3 months",
+                "<b>Anxiety</b>",
+                "Outcome type: continuous outcome",
+                "Scale used: Four‐Dimensional Anxiety Scale",
+                "Direction: lower is better",
+                "Score range: 35 to 175",
+                "Data value: endpoint, 3 months",
+                "<b>Adverse events</b>",
+                "Outcome type: continuous outcome",
+                "Notes: adverse events – 2 in interactive programme and 1 in psychoeducational arm had increased depressive symptoms; 1 participant in interactive programme had increased anxiety at follow‐up.",
+                "<b>Treatment dropout</b>",
+                "Outcome type: dichotomous outcome"
+            ],
+            "Identification": [
+                "<b>Sponsorship source:</b> the research was supported by funding from the NIMH grant number 1R34MH085118.",
+                "<b>Country:</b> USA",
+                "<b>Setting:</b> university students with rape‐related PTSD; online therapy",
+                "<b>Authors name:</b> Heather Littleton",
+                "<b>Institution:</b> East Carolina University",
+                "<b>Email:</b> [email protected]",
+                "<b>Year:</b> 2017"
+            ]
+        },
+        "Questions": {
+            "Methods": [
+                {
+                    "Question_id": "001",
+                    "Question": "What type of study design was used in this RCT study?",
+                    "Options": [
+                        "A. Cohort study",
+                        "B. Case-control study",
+                        "C. Randomised controlled trial",
+                        "D. Cross-sectional study"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "How were participants grouped in this study?",
+                    "Options": [
+                        "A. Crossover group",
+                        "B. Parallel group",
+                        "C. Cluster group",
+                        "D. Sequential group"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What was the duration of the study?",
+                    "Options": [
+                        "A. January 2011 to December 2013",
+                        "B. May 2012 to August 2014",
+                        "C. March 2013 to June 2015",
+                        "D. February 2011 to May 2013"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "How many IRBs approved the study?",
+                    "Options": [
+                        "A. 2",
+                        "B. 3",
+                        "C. 4",
+                        "D. 5"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "Where was the study conducted?",
+                    "Options": [
+                        "A. 4 Canadian universities and community colleges",
+                        "B. 4 US universities and community colleges",
+                        "C. 3 US universities and 1 Canadian college",
+                        "D. 5 US universities"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "Which university was specifically mentioned as a location for the study?",
+                    "Options": [
+                        "A. University of Michigan",
+                        "B. Harvard University",
+                        "C. East Carolina University",
+                        "D. Stanford University"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "007",
+                    "Question": "What method was used to randomise participants in the study?",
+                    "Options": [
+                        "A. Drawing lots",
+                        "B. Computerised coin flip",
+                        "C. Random number table",
+                        "D. Dice roll"
+                    ],
+                    "Answer": "B"
+                }
+            ],
+            "Participants": [
+                {
+                    "Question_id": "001",
+                    "Question": "How many participants were randomized into the CBT-online group?",
+                    "Options": [
+                        "A. 46",
+                        "B. 41",
+                        "C. 87",
+                        "D. 22"
+                    ],
+                    "Answer": "A"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "What percentage of participants in the CBT-online group were white?",
+                    "Options": [
+                        "A. 41.3%",
+                        "B. 51.2%",
+                        "C. 46%",
+                        "D. 38.3%"
+                    ],
+                    "Answer": "A"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What was the baseline PTSD mean score for the minimal intervention group?",
+                    "Options": [
+                        "A. 23.7",
+                        "B. 23",
+                        "C. 24",
+                        "D. 22.5"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "What percentage of participants in the overall study were Black?",
+                    "Options": [
+                        "A. 21.7%",
+                        "B. 25.3%",
+                        "C. 29.3%",
+                        "D. 38.3%"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "What was the age range of participants in the study?",
+                    "Options": [
+                        "A. 18 to 42 years",
+                        "B. 20 to 40 years",
+                        "C. 22 to 44 years",
+                        "D. 18 to 40 years"
+                    ],
+                    "Answer": "A"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "How many participants completed the post-treatment assessment in the minimal intervention group?",
+                    "Options": [
+                        "A. 26",
+                        "B. 29",
+                        "C. 22",
+                        "D. 21"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "007",
+                    "Question": "What was the treatment completion rate for the CBT-online group?",
+                    "Options": [
+                        "A. 57%",
+                        "B. 71%",
+                        "C. 50%",
+                        "D. 60%"
+                    ],
+                    "Answer": "A"
+                },
+                {
+                    "Question_id": "008",
+                    "Question": "How many participants were analyzed at the final applicable time point in the overall study?",
+                    "Options": [
+                        "A. 22",
+                        "B. 21",
+                        "C. 43",
+                        "D. 44"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "009",
+                    "Question": "Which of the following was NOT an exclusion criterion for the study?",
+                    "Options": [
+                        "A. Currently receiving psychotherapy",
+                        "B. Active suicidality",
+                        "C. PTSD diagnosis determined using the PSS‐I",
+                        "D. Meeting DSM-IV criteria for current substance dependence"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "010",
+                    "Question": "How many participants were approached for the study?",
+                    "Options": [
+                        "A. 150",
+                        "B. 87",
+                        "C. 46",
+                        "D. 41"
+                    ],
+                    "Answer": "A"
+                }
+            ],
+            "Interventions": [
+                {
+                    "Question_id": "001",
+                    "Question": "What is the planned number of intervention sessions for the CBT (online) program?",
+                    "Options": [
+                        "A. 3",
+                        "B. 6",
+                        "C. 9",
+                        "D. 12"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "How is the CBT intervention delivered?",
+                    "Options": [
+                        "A. Face-to-face",
+                        "B. Online",
+                        "C. Telephone",
+                        "D. Video"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What is the format of the CBT intervention?",
+                    "Options": [
+                        "A. Group",
+                        "B. Individual",
+                        "C. Blend",
+                        "D. Unclear"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "What is the duration of the CBT intervention?",
+                    "Options": [
+                        "A. 8 weeks",
+                        "B. 10 weeks",
+                        "C. 12 weeks",
+                        "D. 14 weeks"
+                    ],
+                    "Answer": "D"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "How many planned intervention sessions are there for the minimal intervention (psychoeducation website)?",
+                    "Options": [
+                        "A. 2",
+                        "B. 3",
+                        "C. 5",
+                        "D. 7"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "What is the theoretical basis of the Survivor to Thriver Program in the CBT intervention?",
+                    "Options": [
+                        "A. Relaxation techniques",
+                        "B. Cognitive behavioral therapy",
+                        "C. Psychoanalysis",
+                        "D. Mindfulness"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "007",
+                    "Question": "What was the treatment fidelity status for the CBT intervention?",
+                    "Options": [
+                        "A. Yes",
+                        "B. No",
+                        "C. Unclear",
+                        "D. Not applicable"
+                    ],
+                    "Answer": "A"
+                },
+                {
+                    "Question_id": "008",
+                    "Question": "What is the mode of delivery for the minimal intervention?",
+                    "Options": [
+                        "A. Face-to-face",
+                        "B. Online",
+                        "C. Video",
+                        "D. Telephone"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "009",
+                    "Question": "What is the duration of the minimal intervention (psychoeducation website)?",
+                    "Options": [
+                        "A. 10 weeks",
+                        "B. 12 weeks",
+                        "C. 14 weeks",
+                        "D. 16 weeks"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "010",
+                    "Question": "What is unclear about the therapist qualifications and training in the CBT intervention?",
+                    "Options": [
+                        "A. The therapists are not qualified",
+                        "B. The study staff are referred to as doctoral students or postdoctoral fellows",
+                        "C. The therapists are not from a clinical psychology background",
+                        "D. The therapists are not mentioned at all"
+                    ],
+                    "Answer": "B"
+                }
+            ],
+            "Outcomes": [
+                {
+                    "Question_id": "001",
+                    "Question": "What is the scale range used to measure PTSD in the study?",
+                    "Options": [
+                        "A. 0 to 60",
+                        "B. 0 to 51",
+                        "C. 35 to 175",
+                        "D. 0 to 100"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "Which scale is used to measure depression in the study?",
+                    "Options": [
+                        "A. PSS‐I",
+                        "B. Four‐Dimensional Anxiety Scale",
+                        "C. CES‐D",
+                        "D. BDI"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "At what time point are the data values for PTSD, Depression, and Anxiety measured?",
+                    "Options": [
+                        "A. 1 month",
+                        "B. 3 months",
+                        "C. 6 months",
+                        "D. 12 months"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "For which outcome is the direction lower is better?",
+                    "Options": [
+                        "A. PTSD",
+                        "B. Depression",
+                        "C. Anxiety",
+                        "D. All of the above"
+                    ],
+                    "Answer": "D"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "What is the score range for the Four‐Dimensional Anxiety Scale used in the study?",
+                    "Options": [
+                        "A. 0 to 51",
+                        "B. 0 to 60",
+                        "C. 35 to 175",
+                        "D. 0 to 100"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "How many participants in the interactive programme experienced increased anxiety at follow-up?",
+                    "Options": [
+                        "A. 0",
+                        "B. 1",
+                        "C. 2",
+                        "D. 3"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "007",
+                    "Question": "What type of outcome is Treatment dropout in the study?",
+                    "Options": [
+                        "A. Continuous outcome",
+                        "B. Categorical outcome",
+                        "C. Dichotomous outcome",
+                        "D. Ordinal outcome"
+                    ],
+                    "Answer": "C"
+                }
+            ],
+            "Identification": [
+                {
+                    "Question_id": "001",
+                    "Question": "What was the source of funding for the RCT study?",
+                    "Options": [
+                        "A. National Institutes of Health (NIH)",
+                        "B. National Institute of Mental Health (NIMH)",
+                        "C. World Health Organization (WHO)",
+                        "D. Centers for Disease Control and Prevention (CDC)"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "002",
+                    "Question": "In which country was the RCT study conducted?",
+                    "Options": [
+                        "A. Canada",
+                        "B. United Kingdom",
+                        "C. USA",
+                        "D. Australia"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "003",
+                    "Question": "What was the setting of the RCT study?",
+                    "Options": [
+                        "A. High school students with anxiety; in-person therapy",
+                        "B. University students with depression; group therapy",
+                        "C. University students with rape-related PTSD; online therapy",
+                        "D. Adults with PTSD; hospital-based therapy"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "004",
+                    "Question": "Who was the author of the RCT study?",
+                    "Options": [
+                        "A. John Smith",
+                        "B. Heather Littleton",
+                        "C. Emily Johnson",
+                        "D. Michael Brown"
+                    ],
+                    "Answer": "B"
+                },
+                {
+                    "Question_id": "005",
+                    "Question": "Which institution was associated with the RCT study?",
+                    "Options": [
+                        "A. Harvard University",
+                        "B. Stanford University",
+                        "C. East Carolina University",
+                        "D. University of North Carolina"
+                    ],
+                    "Answer": "C"
+                },
+                {
+                    "Question_id": "006",
+                    "Question": "In what year was the RCT study conducted?",
+                    "Options": [
+                        "A. 2015",
+                        "B. 2016",
+                        "C. 2017",
+                        "D. 2018"
+                    ],
+                    "Answer": "C"
+                }
+            ]
+        },
+        "assessment": {
+            "question_scores": [
+                {
+                    "question": "What type of study design was used in this RCT study?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "How were participants grouped in this study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the duration of the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many IRBs approved the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Where was the study conducted?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which university was specifically mentioned as a location for the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What method was used to randomise participants in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many participants were randomized into the CBT-online group?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What percentage of participants in the CBT-online group were white?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the baseline PTSD mean score for the minimal intervention group?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What percentage of participants in the overall study were Black?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the age range of participants in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many participants completed the post-treatment assessment in the minimal intervention group?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the treatment completion rate for the CBT-online group?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many participants were analyzed at the final applicable time point in the overall study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which of the following was NOT an exclusion criterion for the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many participants were approached for the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the planned number of intervention sessions for the CBT (online) program?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How is the CBT intervention delivered?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "What is the format of the CBT intervention?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the duration of the CBT intervention?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many planned intervention sessions are there for the minimal intervention (psychoeducation website)?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the theoretical basis of the Survivor to Thriver Program in the CBT intervention?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the treatment fidelity status for the CBT intervention?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the mode of delivery for the minimal intervention?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is the duration of the minimal intervention (psychoeducation website)?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What is unclear about the therapist qualifications and training in the CBT intervention?",
+                    "accuracy": 1,
+                    "fluency": 8
+                },
+                {
+                    "question": "What is the scale range used to measure PTSD in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which scale is used to measure depression in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "At what time point are the data values for PTSD, Depression, and Anxiety measured?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "For which outcome is the direction lower is better?",
+                    "accuracy": 1,
+                    "fluency": 9
+                },
+                {
+                    "question": "What is the score range for the Four‐Dimensional Anxiety Scale used in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "How many participants in the interactive programme experienced increased anxiety at follow-up?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What type of outcome is Treatment dropout in the study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the source of funding for the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "In which country was the RCT study conducted?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "What was the setting of the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Who was the author of the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "Which institution was associated with the RCT study?",
+                    "accuracy": 1,
+                    "fluency": 10
+                },
+                {
+                    "question": "In what year was the RCT study conducted?",
+                    "accuracy": 1,
+                    "fluency": 9
+                }
+            ],
+            "coverage": {
+                "score": 8,
+                "comment": "Strong coverage of methods, interventions, outcomes, and identification. Underrepresented: 100% female sample, time since trauma (<4 years), comorbidity (56.2%), sexual violence in adulthood (100%), research allegiance/conflicts, detailed intervention module content, PTSD scale name for outcome, depression score range, adverse events (increased depressive symptoms), author email."
+            },
+            "diversity": {
+                "score": 6,
+                "comment": "Most items are factual recall with similar phrasing. Consider adding calculations (e.g., dropout rates), comparative or scenario-based questions, true/false, and items targeting missing characteristics to improve variety."
+            }
+        },
+        "questions_length": 40
+    }
+]
